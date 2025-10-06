@@ -133,4 +133,4 @@ curl -v -H "Authorization: Bearer <token>" https://target.example/protected
 ---
 
 ## Disclaimer
-The methodologies as i have rightly said earlier should be used for educational purposes only and i will not be help responsible for any harm caused.
+The methodologies as i have rightly said earlier should be used for educational purposes only and i will not be held responsible for any harm caused.
